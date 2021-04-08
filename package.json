@@ -17,7 +17,6 @@
     "android",
     "ios",
     "mobile",
-    "expo",
     "sketch",
     "signaturepad"
   ],
@@ -27,7 +26,6 @@
   },
   "license": "MIT",
   "peerDependencies": {
-    "expo": "*",
     "react": "*",
     "react-native": "*",
     "react-native-svg": "*"
